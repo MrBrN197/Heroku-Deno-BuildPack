@@ -1,2 +1,7 @@
-#!/usr/bin/env bash
-echo "Compile"
+#!/bin/sh
+
+echo "Bin/Compile"
+
+echo "Something Else"
+echo "-----> This Must Be Working Then!!!!!"
+echo "-----> Found a hello.txt"

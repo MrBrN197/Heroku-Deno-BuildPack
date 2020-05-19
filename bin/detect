@@ -1,1 +1,5 @@
-echo "Detect"
+#!/bin/sh
+
+echo "HelloFramework"
+
+exit 0
