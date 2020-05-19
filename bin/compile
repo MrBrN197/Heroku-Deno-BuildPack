@@ -1,7 +1,4 @@
 #!/bin/sh
 
-echo "Bin/Compile"
-
-echo "Something Else"
-echo "-----> This Must Be Working Then!!!!!"
-echo "-----> Found a hello.txt"
+echo "-----> Compile Stage"
+echo "       Var1: $1 Var2: $2"
